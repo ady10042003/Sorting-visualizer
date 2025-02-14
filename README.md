@@ -1,12 +1,12 @@
 Sorting Algorithm Visualizer
 
-This is a web-based visualization tool for sorting algorithms. It currently supports:
+**This is a web-based visualization tool for sorting algorithms. It currently supports:**
 
-Bubble Sort
+-Bubble Sort
 
-Insertion Sort
+-Insertion Sort
 
-Features
+-Features
 
 Dynamic number generation: Generate random numbers to sort.
 
