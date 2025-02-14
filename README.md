@@ -21,7 +21,7 @@ This is a web-based visualization tool for sorting algorithms. It currently supp
 
 ### Bubble Sort
 
-1. ![Bubble Sort - Step 1](photos/Screenshot (2).png)
+1. ![Bubble Sort - Step 1](photos/Screenshot%20(2).png)
 2. ![Bubble Sort - Step 2](photos/Screenshot (3).png)
 3. ![Bubble Sort - Step 3](photos/Screenshot (4).png)
 4. ![Bubble Sort - Step 4](photos/Screenshot (5).png)
