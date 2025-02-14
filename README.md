@@ -22,16 +22,16 @@ This is a web-based visualization tool for sorting algorithms. It currently supp
 ### Bubble Sort
 
 1. ![Bubble Sort - Step 1](photos/Screenshot%20(2).png)
-2. ![Bubble Sort - Step 2](photos/Screenshot (3).png)
-3. ![Bubble Sort - Step 3](photos/Screenshot (4).png)
-4. ![Bubble Sort - Step 4](photos/Screenshot (5).png)
+2. ![Bubble Sort - Step 2](photos/Screenshot%20(3).png)
+3. ![Bubble Sort - Step 3](photos/Screenshot%20(4).png)
+4. ![Bubble Sort - Step 4](photos/Screenshot%20(5).png)
 
 ### Insertion Sort
 
-1. ![Insertion Sort - Step 1](photos/Screenshot (6).png)
-2. ![Insertion Sort - Step 2](photos/Screenshot (7).png)
-3. ![Insertion Sort - Step 3](photos/Screenshot (8).png)
-4. ![Insertion Sort - Step 4](photos/Screenshot (9).png)
+1. ![Insertion Sort - Step 1](photos/Screenshot%20(6).png)
+2. ![Insertion Sort - Step 2](photos/Screenshot%20(7).png)
+3. ![Insertion Sort - Step 3](photos/Screenshot%20(8).png)
+4. ![Insertion Sort - Step 4](photos/Screenshot%20(9).png)
 
 ## Technologies Used
 
